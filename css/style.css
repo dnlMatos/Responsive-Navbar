@@ -6,7 +6,8 @@
 }
 
 body{
-    background: url(/navbar/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg) no-repeat;
+    height: 92vh;
+    background: url(../dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Courier New', Courier, monospace;
@@ -16,6 +17,8 @@ menu{
     height: 8%;
     width: 100%;
     background: rgba(223, 223, 221, .6);
+    position: relative;
+    z-index: 9999;
 }
 
 nav{
@@ -71,8 +74,12 @@ a.active, a:hover{
 }
 
 footer{
-    height: 86vh;
+    width: 100%;
+    padding: 0 10px;
     display: flex;
+    text-align: center;
+    position: relative;
+    top: 92%;
     align-items: flex-end;
     justify-content: space-around;
 }
