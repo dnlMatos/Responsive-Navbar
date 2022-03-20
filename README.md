@@ -1,8 +1,8 @@
-# Navbar Responsive
+# Responsive Navbar
 
 Simple desktop to mobile navigation design
 
-![dariusz-sankowski-3OiYMgDKJ6k-unsplash](https://user-images.githubusercontent.com/60492862/159164811-a169738d-8507-4dfa-b648-c21df1752de0.jpg)
+![responsiveNavbar](https://user-images.githubusercontent.com/60492862/159165595-ac979bdd-ed4b-44d1-a9f4-f258344623ce.gif)
 
 
 ## Would you like to test?
